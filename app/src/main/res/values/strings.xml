@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="app_title">Trivia</string>
+    <string name="TRUE">TRUE</string>
+    <string name="FALSE">FALSE</string>
+    <string name="question_no"><b># %1$d of %2$d</b> </string>
+</resources>
